@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://kl456123.github.io/breakpoint.github.io/atom.xml" rel="self"/>
   
   <link href="https://kl456123.github.io/breakpoint.github.io/"/>
   <updated>2016-09-04T05:43:44.715Z</updated>
