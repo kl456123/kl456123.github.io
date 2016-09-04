@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://kl456123.github.io/breakpoint.github.io/"/>
   <updated>2016-09-04T05:43:44.715Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://kl456123.github.io/breakpoint.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/09/04/hello-world/"/>
-    <id>http://yoursite.com/2016/09/04/hello-world/</id>
+    <link href="https://kl456123.github.io/breakpoint.github.io/2016/09/04/hello-world/"/>
+    <id>https://kl456123.github.io/breakpoint.github.io/2016/09/04/hello-world/</id>
     <published>2016-09-04T05:43:44.715Z</published>
     <updated>2016-09-04T05:43:44.715Z</updated>
     
